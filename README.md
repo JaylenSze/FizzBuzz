@@ -460,7 +460,7 @@ def multiples(n: int = 1000, a: int = 3, b: int = 5) -> int:
 Once you complete these steps, you can uncomment the last test in [`test/lab1/MultiplesTest.java`](test/lab1/MultiplesTest.java)
 and run the tests in it to check your work — debugging `MultiplesTest` as needed.
 
-- [ ] Use git to push your updated `Multiples.java` file to GitHub.
+- [X] Use git to push your updated `Multiples.java` file to GitHub.
 
 ## Extra Task 2: Reduce a number to 0
 
