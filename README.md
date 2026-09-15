@@ -425,7 +425,7 @@ in this file. You can then click that to conveniently rerun the tests.
 
 - [X] Make sure the tests all pass in the file.
 
-- [ ] If you didn't yet, also `add`, `commit`, and `push` this `Multiples.java` file to save your work
+- [X] If you didn't yet, also `add`, `commit`, and `push` this `Multiples.java` file to save your work
   and upload it to your GitHub repo.
 
 ### Extra Task 1.2: Overloading `multiples`
